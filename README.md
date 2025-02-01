@@ -38,22 +38,21 @@ Each solution includes:
    ```bash
    git clone https://github.com/oumaima1115/LeetCode.git
 Browse solutions by category.
-Read explanations in the code comments.
-🏆 LeetCode Progress
+Read explanations in the code comments. <br>
+🏆 LeetCode Progress <br>
 I track my daily problem-solving journey using the LeetCode platform.
-Categories include:
-
-Easy Problems: Foundational problem-solving patterns
-Medium Problems: Complex algorithmic thinking
-Hard Problems: Advanced challenges for optimization
-🌟 Topics Covered
+Categories include: <br>
+Easy Problems: Foundational problem-solving patterns <br>
+Medium Problems: Complex algorithmic thinking <br>
+Hard Problems: Advanced challenges for optimization <br>
+🌟 Topics Covered <br>
 Data Structures: Arrays, Linked Lists, Trees, Graphs
 Algorithms: Sorting, Searching, Dynamic Programming, Recursion
-Optimization Techniques: Reducing time and space complexity
-📝 Notes
+Optimization Techniques: Reducing time and space complexity <br>
+📝 Notes <br>
 All solutions are tested with edge cases.
-Feedback and suggestions are welcome!
-📧 Contact
+Feedback and suggestions are welcome! <br>
+📧 Contact <br>
 Feel free to connect with me on LinkedIn or raise an issue here for discussions.
 
 Make sure to create the `images` folder and add your LeetCode dashboard image as `leetcode_dashboard.png`.
