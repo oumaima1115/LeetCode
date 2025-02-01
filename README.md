@@ -20,11 +20,11 @@ Each solution includes:
 ├── README.md <br>
 ├── images/ (for the dashboard image) <br>
 └── solutions/ <br>
-├── arrays/ <br>
-├── strings/ <br>
-├── linked_lists/ <br>
-├── dynamic_programming/ <br>
-└── sorting_searching/ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;├── arrays/ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;├── strings/ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;├── linked_lists/ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;├── dynamic_programming/ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;└── sorting_searching/ <br>
 
 **Example Structure:**  
 - **Problem Name:** `solutions/arrays/two_sum.py`  
